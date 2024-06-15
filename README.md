@@ -10,13 +10,11 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  img  
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-DB7093?style=for-the-badge&logo=Java&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
 </div>
 
 <br>
