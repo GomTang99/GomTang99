@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-DB7093?style=for-the-badge&logo=Java&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/Java-DB7093?style=for-the-badge&logo=JAVA&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
 </div>
 
