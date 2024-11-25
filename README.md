@@ -1,6 +1,5 @@
 <!--타이틀 부분-->
 <div align="center">
-<!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
   <h3>FullStack-Developer 박준영</h3>
 </div>
 
@@ -9,7 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascridpt&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
 </div>
 
@@ -17,8 +16,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/Spring Boot?style=for-the-badgeSpring Boot&logo=&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
@@ -38,14 +37,8 @@
 
 <br>
 
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-<!--   <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>-->
   <a href="mailto:parkjuneyoung194786@gmail.com"> 
     <img
       src="https://img.shields.io/badge/parkjuneyoung194786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
